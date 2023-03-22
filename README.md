@@ -1,1 +1,4 @@
 # Optical-Character-Recognition-and-Keyword-Search
+
+
+##This code analyzes images and searches for keywords in the text extracted from the images using OCR using pytesseract library
